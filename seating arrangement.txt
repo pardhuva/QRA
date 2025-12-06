@@ -1,0 +1,15 @@
+
+//tips 
+/directions - 8 
+ north, south ,east,west,north west,north east,south west,south east 
+/clockwise adn anticlockwise 
+/in circle- inside nad outside facing 
+/when facing downwards - the left adn right changes 
+/type of sitting - facing each other or facing away from ech other 
+
+//solving 
+ count number of people 
+ draw frame 
+ solve sentence wise then merge them 
+
+ 

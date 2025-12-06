@@ -1,0 +1,26 @@
+
+//always upper as north 
+
+//sun rises in east -> goes in anticlockwise 
+//and then sun sets in west 
+//so sun goes from east to west anticlockwise 
+
+//angle between the major quadrants is 90 
+//angle between the main and subordinate is 45 ex: noth and northeast 
+
+//during sunrise(mmorning) which is at east the shadow will be in the direction of west 
+//during sunsetting(evening) which is at west teh shadow will be in the direction of east 
+//during 12 noon means at top (as it move from east to west in aniclockwise direction ) -> no shadow 
+  because the sun is above our head so shadow falls below our feet 
+ 
+ ex: when i facing north and during sunrise the shadow will be on the left side as it falls in the west during sunrise 
+    during sunset the shadow will be right to me 
+//if i am facing south then during sunrise shadow will be on the right 
+     during sunset it will be on the left 
+
+//so if facing north 
+       sunrise -> left(shadow)
+       sunset  -> right
+    if facing south 
+       sunrise -> right 
+       sunset -> left 

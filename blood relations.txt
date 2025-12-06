@@ -1,0 +1,34 @@
+//tips 
+. every generation in new level 
+. male + female - 
+. use symbols 
+. no assumptions for gender 
+. draw family tree 
+
+//relations 
+
+ father of father or mother -- Grandfather 
+ mother of father or mother -- Grandmother 
+ wife of grandfather        -- grand mother 
+ husband of grandmother     -- grandfather 
+ father-in-law of father/mother -- grandfather 
+ mother-in-law of father/mother -- grandmother 
+ brother of father              -- uncle 
+ sister of father               -- aunt 
+ brother/sister of mother    -- maternal uncle /maternal aunt 
+ father of wife/husband     -- father in law 
+ mother of wife/husband     -- mother in law 
+ father's/mother's only son/daughter -- oneself 
+ son/daughter of uncle or aunt   -- cousin 
+ brother/sisster of husband or wife   -- brotherin law/sister-in-law 
+ husband of sister/sister-in-law -- brother-in-law 
+ son of brother or sister   -- nephew 
+ daughter of brother or sister -- niece 
+ husband of daughter -- son-in-law 
+ wife of brother/brother-in-law -- sister-in-law 
+ wife of son -- daughter-in-law 
+
+//type1 - go from backwards 
+//type2 - try to eleiminate (you were given like A + B)
+//type3 - you were given alphabets and conditions 
+

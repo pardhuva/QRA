@@ -1,0 +1,29 @@
+1. speed = distance/time 
+2. average speed = total distance/total time 
+3. average speed = (2*v1*v2)/(v1+v2)
+4. componendo =>
+              if  a/b = c/d 
+            then  a+b/b = c+d/d 
+   dividendo => 
+              if   a/b = c/d 
+            then   a-b/b = c-d/d 
+    by componendo and dividendo 
+             a/b    = c/d 
+        (a+b)/(a-b) = (c+d)/(c-d)
+
+5. work = time*efficiency 
+6. efficiency = (1/time)
+7. time = (1/ efficiency)
+8. time = (xy)/(x+y)   (if work together )
+9. time = (2xy)/(x+y)   (if done seperately)
+
+| Concept          | Formula                                  | Meaning                      |
+| ---------------- | ---------------------------------------- | ---------------------------- |
+| Work             | ( {Time} *{Efficiency} )                 | Basic definition             |
+| Efficiency       | ( 1/{Time} )                             | 1-day work                   |
+| Time (A+B)       | ( xy / (x + y) )                         | When both work together      |
+| Efficiency Ratio | ( 1/{Time Ratio} )                       | Inverse relation             |
+| Wage Ratio       | = Efficiency Ratio                       | Based on work done           |
+| Pipe fill/empty  | ( 1/x ± 1/y )                            | Net rate                     |
+| Man–Days         | ( M × D = N × x )                        | Used when no. of men changes |
+
